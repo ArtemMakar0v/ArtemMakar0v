@@ -7,4 +7,4 @@ Additionally, I'm the creator and maintainer of the website [zdoroveketo.com.ua]
 #### Skills and Experience
 TESTING / JAVA / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemMakar0v)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemMakar0v&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
