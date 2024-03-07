@@ -9,7 +9,7 @@ Additionally, I'm the creator and maintainer of the website 🥑[ZDOROVEKETO](ht
 * 🤖 Automation Testing 🕵️‍♂️ Exploratory Testing ⏱️ Performance Testing 🧪 Functional Testing
 
 * 🎭 Playwright
-* 🛠️ Selenide
+* 🛠️ Selenide (Selenium)
 
 * ☕ Java
 * 🖥️ HTML / CSS
