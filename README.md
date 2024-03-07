@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I`m Artem from Ukraine, and I work as a test automation engineer. I really enjoy new experiences and learning new testing frameworks like Selenide and Playwright. 
 
-Additionally, I'm the creator and maintainer of the website [zdoroveketo](https://www.zdoroveketo.com.ua)🥑.
+Additionally, I'm the creator and maintainer of the website 🥑[ZDOROVEKETO](https://www.zdoroveketo.com.ua).
 
 ### Skills and Experience
 * 🤖 Automation Testing 🕵️‍♂️ Exploratory Testing ⏱️ Performance Testing 🧪 Functional Testing
