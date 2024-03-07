@@ -1,5 +1,4 @@
 # Hi there 👋
-#### Test automation engineer
 
 Welcome to my GitHub profile! I`m Artem from Ukraine, and I work as a test automation engineer. I really enjoy new experiences and learning testing frameworks like Selenide and Playwright. 
 
